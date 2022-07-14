@@ -1,0 +1,1 @@
+FROM jinaai/discoart:latest
