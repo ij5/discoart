@@ -1,1 +1,1 @@
-FROM jinaai/discoart:latest
+FROM r8.im/orpatashnik/styleclip@sha256:7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021
